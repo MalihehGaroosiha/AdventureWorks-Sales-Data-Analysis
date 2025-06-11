@@ -52,14 +52,25 @@ Calculate customer spending ranks, averages, and compare with overall values.
 
 ---
 
-## 🧪 Sample Queries Used
+##📌 Key Concepts Demonstrated
+Aggregations (SUM, AVG, COUNT)
 
-```sql
--- Top 5 Products by Revenue
-SELECT TOP 5 
-    p.Name, 
-    SUM(od.OrderQty * od.UnitPrice) AS TotalRevenue
-FROM Sales.SalesOrderDetail od
-JOIN Production.Product p ON od.ProductID = p.ProductID
-GROUP BY p.Name
-ORDER BY TotalRevenue DESC;
+Ranking functions (RANK(), ROW_NUMBER(), DENSE_RANK())
+
+Analytical functions (LAG, LEAD)
+
+Views and CTEs
+
+Subqueries and JOINS
+
+Date filtering and formatting
+
+--- 
+##🔍 Possible Improvements
+Visualization in Power BI or Tableau
+
+Scheduled reports or dashboards
+
+Predictive models using SQL + Python
+
+Enhanced segmentation using clustering (with exported data)
