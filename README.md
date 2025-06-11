@@ -51,8 +51,7 @@ Measure the gap between purchases using `LAG()`.
 Calculate customer spending ranks, averages, and compare with overall values.
 
 ---
-
-##📌 Key Concepts Demonstrated
+## 📌 Key Concepts Demonstrated
 Aggregations (SUM, AVG, COUNT)
 
 Ranking functions (RANK(), ROW_NUMBER(), DENSE_RANK())
@@ -66,7 +65,7 @@ Subqueries and JOINS
 Date filtering and formatting
 
 --- 
-##🔍 Possible Improvements
+## 🔍 Possible Improvements
 Visualization in Power BI or Tableau
 
 Scheduled reports or dashboards
