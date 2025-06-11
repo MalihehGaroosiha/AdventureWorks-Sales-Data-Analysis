@@ -10,6 +10,12 @@ This project explores the **AdventureWorks2022** sample database using **T-SQL**
 **AdventureWorks2022** is a fictional database by Microsoft representing a manufacturing company. It includes tables for customers, orders, products, employees, and financials — ideal for SQL practice and analysis projects.
 
 ---
+#🛠️ Tools Used
+ SQL Server Management Studio (SSMS)
+
+ T-SQL (Transact-SQL)
+
+ AdventureWorks2022 Database
 
 ## 🎯 Business Questions Answered
 
